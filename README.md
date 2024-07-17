@@ -1,5 +1,8 @@
 # Project_CS260
 Faculty Recruitment Portal
+Group Project by:
+Harsh Kumar (HarshKumar3-14 , HarshKumar3-14159)
+Rahul Nikhate (Rahul-Nikhate)
 
 ## How to Run
 1. Load the database on the server using the sql file `FacultuRecruitment.sql`
